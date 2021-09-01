@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FindYourBank2/static/css/main.b75d5975.chunk.css",
+    "main.js": "/FindYourBank2/static/js/main.4d0c0842.chunk.js",
+    "main.js.map": "/FindYourBank2/static/js/main.4d0c0842.chunk.js.map",
+    "runtime-main.js": "/FindYourBank2/static/js/runtime-main.dc624cae.js",
+    "runtime-main.js.map": "/FindYourBank2/static/js/runtime-main.dc624cae.js.map",
+    "static/css/2.818011ed.chunk.css": "/FindYourBank2/static/css/2.818011ed.chunk.css",
+    "static/js/2.0d7e2cf2.chunk.js": "/FindYourBank2/static/js/2.0d7e2cf2.chunk.js",
+    "static/js/2.0d7e2cf2.chunk.js.map": "/FindYourBank2/static/js/2.0d7e2cf2.chunk.js.map",
+    "index.html": "/FindYourBank2/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/FindYourBank2/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.b75d5975.chunk.css.map": "/FindYourBank2/static/css/main.b75d5975.chunk.css.map",
+    "static/js/2.0d7e2cf2.chunk.js.LICENSE.txt": "/FindYourBank2/static/js/2.0d7e2cf2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc624cae.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.0d7e2cf2.chunk.js",
+    "static/css/main.b75d5975.chunk.css",
+    "static/js/main.4d0c0842.chunk.js"
+  ]
+}
